@@ -1,0 +1,20 @@
+{
+  "username": "TomPlaneta",
+  "password": "password1234",
+  "ip": "anarchy.6b6t.org",
+  "version": "1.19",
+  "messages": [
+    "This is the best spambot!",
+    "Made by TomPlaneta"
+  ],
+  "prefix": "&6&l ",
+  "blacklist": ["qbasty", "pistonmaster"],
+  "delay": 20,
+  "log":{
+    "messages": true,
+    "whispers": true,
+    "sends": true,
+    "kicks": true,
+    "errors": true
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "mineflayer-spambot-plus",
+  "version": "1.0.0",
+  "description": "Spam bot for 6b6t.org using Mineflayer",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "TomPlaneta",
+  "license": "ISC",
+  "dependencies": {
+    "mineflayer": "^4.8.1",
+    "colors": "^1.4.0"
+  }
+}
