@@ -25,11 +25,11 @@ Improved version of [CarloxCoC's SpamBot](https://github.com/CarloxCoC/SpamBot)
   "blacklist": ["User1", "User2"],
   "delay": 20,
   "log":{
-    "messages": true/false,
-    "whispers": true/false,
-    "sends": true/false,
-    "kicks": true/false,
-    "errors": true/false
+    "messages": true,
+    "whispers": true,
+    "sends": true,
+    "kicks": true,
+    "errors": true
   }
 }
 ```
